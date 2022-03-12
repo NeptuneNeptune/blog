@@ -24,7 +24,7 @@ var config = {
         "————爱你的安先生"
     ],
     imgs: {
-        "心爱的女朋友": "./imgs/you.jpg",
+        "心爱的女朋友": "./imgs/you1.jpg",
         "今天是你的生日": "./imgs/birthday.jpg",
         "祝你生日快乐！！！": "./imgs/bd1.jpg",
         "美丽而快乐": "./imgs/happy.jpg",
