@@ -5,10 +5,10 @@
 	},
 	{
 		"version": "11",
-		"url": "https://download.oracle.com/otn/java/jdk/11.0.16.1+1/f9456f6fbfe042b5a5ca0a8898bfa5ec/jdk-11.0.16.1_windows-x64_bin.zip?AuthParam=1664509194_0dfc2c16efb36bb5a01ed1772784d351"
+		"url": "https://cdn.flowus.cn/oss/745adcbf-d152-4392-b70f-e1c9cd0aa03b/11.zip?filename=11.zip&time=1664519119&token=dbe4782420a09196830a4969f85d797e"
 	},
 	{
 		"version": "8",
-		"url": ""
+		"url": "https://cdn.flowus.cn/oss/f95f44c4-7eb3-4e29-8917-116cff1e5039/8.zip?filename=8.zip&time=1664519020&token=24b888155f94e04a7fd0ba3f1e0d4110"
 	}
 ]
