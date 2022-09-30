@@ -2,5 +2,13 @@
 	{
 		"version": "17.0.4.1",
 		"url": "https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip"
+	},
+	{
+		"version": "11.0.16.1",
+		"url": "https://download.oracle.com/otn/java/jdk/11.0.16.1+1/f9456f6fbfe042b5a5ca0a8898bfa5ec/jdk-11.0.16.1_windows-x64_bin.zip?AuthParam=1664509194_0dfc2c16efb36bb5a01ed1772784d351"
+	},
+	{
+		"version": "8u341",
+		"url": ""
 	}
 ]
